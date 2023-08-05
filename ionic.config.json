@@ -1,0 +1,7 @@
+{
+  "name": "Erlesh-vault-app",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
